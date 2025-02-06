@@ -14,4 +14,4 @@ https://github.com/JeffryValle99/lenguajes-ejercicios-Dart
 ## Integrantes
 [Jeffry Espinal Valle](https://github.com/JeffryValle99). - 20212000761 
 
-[Frank Galo](https://github.com/JeffryValle99). - 20212000761
+[Franklin Jahaziel Veliz Galindo](https://github.com/Franklin-Veliz). - 20222000313
